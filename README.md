@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ FullStack Developer, React Native Mobile Developer
+
+- 📫 How to reach me: ahmadee.by@gmail.com
