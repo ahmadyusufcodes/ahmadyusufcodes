@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hi there 👋 I'm Khalifa
+  Hi there 👋 I'm Ahmad
 </h1>
 
 <p align='center'>
@@ -11,20 +11,20 @@
 <p align='center'>
   
   
-  <a href="https://www.linkedin.com/in/muhammad-khalifa-abdullahi-a42464183/">
+  <a href="https://www.linkedin.com/in/ahmadcodes/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/kalycodes">
+  <a href="https://instagram.com/ahmad_opera">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/kalyfamuhd">
+  <a href="https://twitter.com/ahmad_opera">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kalycoding&show_icons=true&count_private=true" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ahmad-opera&show_icons=true&count_private=true" width="350"></a>
 </p>
 
 <hr>
